@@ -1,0 +1,22 @@
+{
+  "name": "desafio-2",
+  "version": "1.0.0",
+  "description": "Desafio 2 backend",
+  "main": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelalex16/Backend-Desafio-2.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "nahuelalex16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelalex16/Backend-Desafio-2/issues"
+  },
+  "homepage": "https://github.com/nahuelalex16/Backend-Desafio-2#readme"
+}
